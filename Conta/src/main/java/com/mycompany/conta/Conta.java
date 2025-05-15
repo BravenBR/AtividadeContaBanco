@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author T-GAMER
+ * @author T-GAMER     
  */
 public class Conta {
 
